@@ -1,0 +1,10 @@
+2026-04-03 11:40:16,149 - INFO - Placing order: BTCUSDT | BUY | MARKET | qty=0.01 | price=None
+2026-04-03 11:40:17,519 - INFO - Order Response: {}
+2026-04-03 11:40:24,825 - INFO - Placing order: BTCUSDT | SELL | LIMIT | qty=0.01 | price=30000.0
+2026-04-03 11:40:26,145 - INFO - Order Response: {}
+2026-04-03 11:40:57,917 - INFO - Placing order: BTCUSDT | SELL | LIMIT | qty=0.01 | price=30000.0
+2026-04-03 11:40:59,278 - INFO - Order Response: {}
+2026-04-03 11:49:48,775 - INFO - Placing order: BTCUSDT | BUY | MARKET | qty=0.01 | price=None
+2026-04-03 11:49:49,912 - INFO - Order Response: {}
+2026-04-03 11:49:58,843 - INFO - Placing order: BTCUSDT | SELL | LIMIT | qty=0.01 | price=30000.0
+2026-04-03 11:50:00,127 - INFO - Order Response: {}
